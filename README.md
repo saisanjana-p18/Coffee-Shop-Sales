@@ -57,7 +57,3 @@ Compares sales across different time periods such as Morning, Afternoon, and Nig
 ## Project Outcome
 
 This dashboard demonstrates how Power BI can be used to transform sales data into meaningful visualizations and present business information through an interactive dashboard.
-
-## Dashboard Preview
-
-![Coffee Shop Sales Dashboard](Coffee%20Shop%20Sales.png)
